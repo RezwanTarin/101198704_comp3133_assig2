@@ -7,4 +7,4 @@
 
 # some UI Screen shots
 
-<img scr="https://github.com/RezwanTarin/101198704_comp3133_assig2/blob/master/screen_shoots_assign2/signup.png" />
+<img src="" />
