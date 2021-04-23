@@ -7,4 +7,7 @@
 
 # some UI Screen shots
 
-<img src="" />
+<img src="https://github.com/RezwanTarin/101198704_comp3133_assig2/blob/master/screen_shoots_assign2/login.png" />
+<img src="https://github.com/RezwanTarin/101198704_comp3133_assig2/blob/master/screen_shoots_assign2/signup.png" />
+<img src="https://github.com/RezwanTarin/101198704_comp3133_assig2/blob/master/screen_shoots_assign2/booking-list.png" />
+<img sc="https://github.com/RezwanTarin/101198704_comp3133_assig2/blob/master/screen_shoots_assign2/listOfHotels.png" />
